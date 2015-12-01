@@ -2,6 +2,8 @@
 
 Little sudoku solver.
 
-Compile:  --> gcc -o sudoku sudoku.c  Execute:  --> ./sudoku
+Compile:  --> gcc -o sudoku sudoku.c  
+
+Execute:  --> ./sudoku
 
 Enjoy :)
