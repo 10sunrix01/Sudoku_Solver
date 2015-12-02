@@ -5,7 +5,7 @@
 /* FOR A NEW PUZZLE DON'T FORGET TO CHANGE THE PUZZLE FORMAT/PROBLEM IN THE ARRAY */
 /* Symbol for --> change here : [^^] */
 
-/* Im using the backtracking method .....well...something like that :) */
+/* Im using the recursive backtracking method for the first time.  :) */
 
 //======================================================================
 // ===============
